@@ -1,0 +1,23 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "practice web developer skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jofer1923/pruebas.git"
+  },
+  "author": "Jose Bedoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jofer1923/pruebas/issues"
+  },
+  "homepage": "https://github.com/jofer1923/pruebas#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
